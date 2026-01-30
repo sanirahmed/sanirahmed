@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanir Ahmed
 
-<!--
-**sanirahmed/sanirahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Computer Science & Engineering (CSE)  
+🤖 Machine Learning & Deep Learning Enthusiast  
+📊 Interested in Data, Vision & Intelligent Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Areas of Interest
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Neural Networks
+- AI Research
+
+---
+
+## 🛠️ Technical Skills
+- Python
+- NumPy, Pandas
+- PyTorch, TensorFlow
+- OpenCV
+- Scikit-learn
+
+---
+
+## 📚 Experience & Work
+- Academic projects in Machine Learning & Deep Learning
+- Hands-on model training, evaluation, and experimentation
+- Research-oriented learning and implementation
+
+---
+
+## 📄 Publications
+- *Enhancing polyp segmentation in endoscopic images using attention-enhanced U-Nets*  
+  **ICCIT 2025 (Accepted)**
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/sanirahmed
+- LinkedIn: www.linkedin.com/in/sanir-ahmed
+⭐ Passionate about learning, experimenting, and building intelligent systems
